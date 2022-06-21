@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWD", "NWD\NWD.csproj", "{DEAC71B7-B2CF-4DCD-A677-442FDD7D1893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAC71B7-B2CF-4DCD-A677-442FDD7D1893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAC71B7-B2CF-4DCD-A677-442FDD7D1893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAC71B7-B2CF-4DCD-A677-442FDD7D1893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAC71B7-B2CF-4DCD-A677-442FDD7D1893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76288C4B-0E2C-45EB-8F0B-2EACDDA3C7D4}
+	EndGlobalSection
+EndGlobal
